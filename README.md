@@ -1,3 +1,4 @@
+![Banner Image](Fabricio-Rojas\assets\Git Banner.png)
 ## About Me!
 ```Hello, world```, I'm Fabricio Rojas, a College Student at the Manitoba Institute of Trades and Technology in Winnipeg, Canada.
 
