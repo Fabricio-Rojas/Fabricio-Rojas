@@ -1,4 +1,4 @@
-![Banner Image](Fabricio-Rojas\assets\Git Banner.png)
+<img src="Fabricio-Rojas\assets\GitBanner.png" style="align:center;" />
 ## About Me!
 ```Hello, world```, I'm Fabricio Rojas, a College Student at the Manitoba Institute of Trades and Technology in Winnipeg, Canada.
 
