@@ -22,4 +22,5 @@ function getFutureGoal() {
 };
 ```
 
-<img src="assets\marble.png" style="margin:0 auto 0; height: 200px; width:200px" />
+<img src="assets\marble.png" 
+style="display: block; margin: 0 auto 0; height: 200px; width: 200px" />
