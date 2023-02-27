@@ -1,5 +1,7 @@
 <img src="Fabricio-Rojas\assets\GitBanner.png" style="align:center;" />
+
 ## About Me!
+
 ```Hello, world```, I'm Fabricio Rojas, a College Student at the Manitoba Institute of Trades and Technology in Winnipeg, Canada.
 
 I'm a highly motivated Software Development with experience in hands on projects within Web Development,
