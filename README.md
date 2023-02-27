@@ -12,7 +12,7 @@ My Skills, tools and goals are listed below:
 ```javascript
 const = FabricioRojas {
     code: [Javascript, HTML, CSS],
-    tools: [Node.js, Git, VSCode],
+    tools: [Nodejs, Git, VSCode],
     askMeAbout: ["Game Development", "UI/UX", "Web Dev", "Pixel Art"],
     currentFocus: ["Learning JavaScript"]
 };
