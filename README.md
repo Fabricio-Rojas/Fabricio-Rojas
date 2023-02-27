@@ -21,3 +21,5 @@ function getFutureGoal() {
     return 'Learn C#, C++ and Unity'
 };
 ```
+
+<img src="assets\marble.png" style="align:center;" />
