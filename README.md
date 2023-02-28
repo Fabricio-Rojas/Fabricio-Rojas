@@ -1,4 +1,4 @@
-<img src="assets\GitBanner.png" style="align:center;" />
+<img src="assets\GitBanner.png" style="align:center;"/>
 
 ## About Me!
 
