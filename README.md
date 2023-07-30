@@ -14,7 +14,7 @@ public class FabricioRojas
 {
     public HashSet<Language> Languages = new() { C#, SQL, Javascript, HTML/CSS };
     public HashSet<Framework> Frameworks = new() { .NET Core, ASP.NET MVC, Entity Framework, SQL Server, React.js, Node.js };
-    public HashSet<Tool> Tools = new() { Visual Studio, VSCode, Azure Data Studio, Apache, NuGet, NPM, Git, GitHub, Shell, Bash };
+    public HashSet<Tool> Tools = new() { Visual Studio, VSCode, Azure Data Studio, NuGet, NPM, Git, GitHub, Shell, Bash };
     public HashSet<WebTech> APIAndWebTechnologies = new() { MapBox, Firebase, Postman, Azure, XAMPP };
     public string[] AskMeAbout = new string[] { "Game Development", "System Design", "UI/UX", "Web Dev", "Pixel Art" };
     public string CurrentFocus =  "Learn Systems Design, Back-End & Game Development";
